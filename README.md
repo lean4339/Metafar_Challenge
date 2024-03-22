@@ -1,4 +1,5 @@
 Para correr la App
 
-NPM INSTALL 
-NPM RUN DEV
+## Copiar .env desde example y colocar api key
+## NPM INSTALL 
+## NPM RUN DEV
